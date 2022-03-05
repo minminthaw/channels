@@ -1,6 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:5
-#EXTINF:-1, US: Test
+#EXT-X-STREAM-INF:PROGRAM-ID=1
 https://cdn.protvmm.live/Movies/3-2022/3/Kingmaker.2022.1080p.WEB-DL.CM.mp4
-#EXTINF:-1, US: Test 2
-https://cdn.protvmm.live/Movies/3-2022/3/Kingmaker.2022.1080p.WEB-DL.CM.mp4
+#EXT-X-ENDLIST
