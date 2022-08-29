@@ -1,0 +1,26 @@
+Algeria: Beinsport 1
+Algeria: Beinsport 2
+Algeria: Beinsport 3
+Algeria: Beinsport Premium 1
+Algeria: Beinsport Premium 2
+Algeria: Beinsport Premium 3
+Algeria: Beinsport English 1
+Algeria: Beinsport English 2
+France: Beinsport 1
+France: Beinsport 2
+France: Beinsport 3
+UK: Skysport Main Event
+Romania: Digi Sport 1
+Romania: Digi Sport 2
+Serbia: Arena Sport 1
+Serbia: Arena Sport 2
+Serbia: Arena Sport 3
+Ziggo Sport Select
+Ziggo Sport Voetbal
+France: RMC Sport 1
+France: RMC Sport 2
+France: RMC Sport 3
+Portugal: Eleven Sport 1
+Portugal: Eleven Sport 2
+Portugal: Eleven Sport 3
+Portugal: Eleven Sport 4
