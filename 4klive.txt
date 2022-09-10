@@ -1,0 +1,35 @@
+Skysport Main Event
+http://4klive.protvmm.live/LiveApp/streams/skmain.m3u8
+
+Supersport Variety 1
+http://4klive.protvmm.live/LiveApp/streams/supv1.m3u8
+
+Beinsport Premium 1
+http://4klive.protvmm.live/LiveApp/streams/bep1.m3u8
+
+Beinsport Premium 2
+http://4klive.protvmm.live/LiveApp/streams/bsp2.m3u8
+
+Beinsport Premium 3
+http://4klive.protvmm.live/LiveApp/streams/bsp3.m3u8
+
+Beinsport 1
+http://4klive.protvmm.live/LiveApp/streams/bsport1.m3u8
+
+Beinsport 2
+http://4klive.protvmm.live/LiveApp/streams/bsport2.m3u8
+
+Beinsport 3
+http://4klive.protvmm.live/LiveApp/streams/bsport3.m3u8
+
+BT Sport 1
+http://4klive.protvmm.live/LiveApp/streams/btsp1.m3u8
+
+BT Sport 2
+http://4klive.protvmm.live/LiveApp/streams/btsp2.m3u8
+
+MUTV
+http://4klive.protvmm.live/LiveApp/streams/mutv.m3u8
+
+Skysport Premier League
+http://4klive.protvmm.live/LiveApp/streams/skepl.m3u8
