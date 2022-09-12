@@ -1,0 +1,27 @@
+Beinsport English 1
+https://ahl.protvmm.live:5443/LiveApp/streams/bseng1.m3u8
+
+Beinsport English 2
+https://ahl.protvmm.live:5443/LiveApp/streams/bseng2.m3u8
+
+Beinsport Premium 1
+https://ahl.protvmm.live:5443/LiveApp/streams/bspremium1.m3u8
+
+Beinsport Premium 2
+https://ahl.protvmm.live:5443/LiveApp/streams/bspremium2.m3u8
+
+Beinsport Premium 3
+https://ahl.protvmm.live:5443/LiveApp/streams/bspremium3.m3u8
+
+Beinsport Xtra 1
+https://ahl.protvmm.live:5443/LiveApp/streams/bsxtra1.m3u8
+
+Beinsport Xtra 2
+https://ahl.protvmm.live:5443/LiveApp/streams/bsxtra2.m3u8
+
+BT Sport 1
+https://ahl.protvmm.live:5443/LiveApp/streams/btsp1.m3u8
+
+BT Sport 2
+https://ahl.protvmm.live:5443/LiveApp/streams/btsp2.m3u8
+
