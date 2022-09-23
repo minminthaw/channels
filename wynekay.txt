@@ -1,0 +1,27 @@
+Beinsport English 1
+http://wk.protvmm.live:5080/LiveApp/streams/bseng1.m3u8
+
+Beinsport English 2
+http://wk.protvmm.live:5080/LiveApp/streams/bseng2.m3u8
+
+Beinsport Premium 1
+http://wk.protvmm.live:5080/LiveApp/streams/bspremium1.m3u8
+
+Beinsport Premium 2
+http://wk.protvmm.live:5080/LiveApp/streams/bspremium2.m3u8
+
+Beinsport Premium 3
+http://wk.protvmm.live:5080/LiveApp/streams/bspremium3.m3u8
+
+Beinsport Xtra 1
+http://wk.protvmm.live:5080/LiveApp/streams/bsxtra1.m3u8
+
+Beinsport Xtra 2
+http://wk.protvmm.live:5080/LiveApp/streams/bsxtra2.m3u8
+
+BT Sport 1
+http://wk.protvmm.live:5080/LiveApp/streams/btsp1.m3u8
+
+BT Sport 2
+http://wk.protvmm.live:5080/LiveApp/streams/btsp2.m3u8
+
