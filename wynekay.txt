@@ -25,3 +25,12 @@ http://wk.protvmm.live:5080/LiveApp/streams/btsp1.m3u8
 BT Sport 2
 http://wk.protvmm.live:5080/LiveApp/streams/btsp2.m3u8
 
+Algeria: Beinsport 1
+http://wk.protvmm.live:5080/LiveApp/streams/bein1.m3u8
+
+Algeria: Beinsport 2
+http://wk.protvmm.live:5080/LiveApp/streams/bein2.m3u8
+
+MUTV
+http://wk.protvmm.live:5080/LiveApp/streams/mutv .m3u8
+
