@@ -1,36 +1,36 @@
 Beinsport English 1
-http://wk.protvmm.live:5080/LiveApp/streams/bseng1.m3u8
+http://94.130.16.172:80/devwk/8bdGYhcsEm/55666.m3u8
 
 Beinsport English 2
-http://wk.protvmm.live:5080/LiveApp/streams/bseng2.m3u8
+http://94.130.16.172:80/devwk/8bdGYhcsEm/55667.m3u8
 
 Beinsport Premium 1
-http://wk.protvmm.live:5080/LiveApp/streams/bspremium1.m3u8
+http://94.130.16.172:80/devwk/8bdGYhcsEm/55660.m3u8
 
 Beinsport Premium 2
-http://wk.protvmm.live:5080/LiveApp/streams/bspremium2.m3u8
+http://94.130.16.172:80/devwk/8bdGYhcsEm/55661.m3u8
 
 Beinsport Premium 3
-http://wk.protvmm.live:5080/LiveApp/streams/bspremium3.m3u8
+http://94.130.16.172:80/devwk/8bdGYhcsEm/55662.m3u8
 
 Beinsport Xtra 1
-http://wk.protvmm.live:5080/LiveApp/streams/bsxtra1.m3u8
+http://94.130.16.172:80/devwk/8bdGYhcsEm/56184.m3u8
 
 Beinsport Xtra 2
-http://wk.protvmm.live:5080/LiveApp/streams/bsxtra2.m3u8
+http://94.130.16.172:80/devwk/8bdGYhcsEm/56185.m3u8
 
 BT Sport 1
-http://wk.protvmm.live:5080/LiveApp/streams/btsp1.m3u8
+http://94.130.16.172:80/devwk/8bdGYhcsEm/55668.m3u8
 
 BT Sport 2
-http://wk.protvmm.live:5080/LiveApp/streams/btsp2.m3u8
+http://94.130.16.172:80/devwk/8bdGYhcsEm/55669.m3u8
 
 Algeria: Beinsport 1
-http://wk.protvmm.live:5080/LiveApp/streams/bein1.m3u8
+http://94.130.16.172:80/devwk/8bdGYhcsEm/55663.m3u8
 
 Algeria: Beinsport 2
-http://wk.protvmm.live:5080/LiveApp/streams/bein2.m3u8
+http://94.130.16.172:80/devwk/8bdGYhcsEm/55664.m3u8
 
 MUTV
-http://wk.protvmm.live:5080/LiveApp/streams/mutv .m3u8
+http://94.130.16.172:80/devwk/8bdGYhcsEm/55670.m3u8
 
