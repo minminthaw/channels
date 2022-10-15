@@ -1,0 +1,5 @@
+AR: Beinsport Premium 1
+http://pull-3298.5centscdn.com/LiveApp/streams/bsp1_ar.m3u8
+
+AR: Beinsport Premium 2
+http://pull-3298.5centscdn.com/LiveApp/streams/bsp2_ar.m3u8
