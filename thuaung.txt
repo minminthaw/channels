@@ -1,0 +1,29 @@
+Beinsport Premium 1
+https://oqgdrox8d4rm-hls-live.5centscdn.com/BSP1/HD.stream/playlist.m3u8
+
+Beinsport Premium 2
+https://oqgdrox8d4rm-hls-live.5centscdn.com/BSP2/HD.stream/playlist.m3u8
+
+Beinsport Premium 3
+https://oqgdrox8d4rm-hls-live.5centscdn.com/BSP3/HD.stream/playlist.m3u8
+
+Beinsport English 1
+https://oqgdrox8d4rm-hls-live.5centscdn.com/BSENG1/HD.stream/playlist.m3u8
+
+Beinsport English 2
+https://oqgdrox8d4rm-hls-live.5centscdn.com/BSENG2/HD.stream/playlist.m3u8
+
+Ziggo Sport Select
+https://oqgdrox8d4rm-hls-live.5centscdn.com/ZiggoSport/select.stream/playlist.m3u8
+
+Ziggo Sport Voetbal
+https://oqgdrox8d4rm-hls-live.5centscdn.com/ZiggoSP/VoetbalHD.stream/playlist.m3u8
+
+FR: Beinsport 1
+https://oqgdrox8d4rm-hls-live.5centscdn.com/Beinsport1/france.stream/playlist.m3u8
+
+FR: Beinsport 2
+https://oqgdrox8d4rm-hls-live.5centscdn.com/Beinsport2/france.stream/playlist.m3u8
+
+FR: Beinsport 3
+https://oqgdrox8d4rm-hls-live.5centscdn.com/Beinsport3/france.stream/playlist.m3u8
