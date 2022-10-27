@@ -32,7 +32,7 @@ Golf HD
 https://thuta.mmsport.live/LiveApp/streams/golf_hd.m3u8
 
 Skysport Golf
-https://thuta.mmsport.live/LiveApp/streams/sksp_golf.m3u8
+https://thuta.mmsport.live/LiveApp/streams/sksf_golf.m3u8
 
 Sony Ten 2
 https://thuta.mmsport.live/LiveApp/streams/sony2.m3u8
