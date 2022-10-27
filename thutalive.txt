@@ -23,7 +23,7 @@ Arena Sport 2
 https://thuta.mmsport.live/LiveApp/streams/arenasp2.m3u8
 
 Beinsport 5
-https://thuta.mmsport.live/LiveApp/streams/sb5_ar.m3u8
+https://thuta.mmsport.live/LiveApp/streams/bs5_ar.m3u8
 
 Beinsport Xtra
 https://thuta.mmsport.live/LiveApp/streams/bsxtra1.m3u8
