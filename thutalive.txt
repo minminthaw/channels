@@ -1,0 +1,47 @@
+Beinsport Premium 1
+/LiveApp/streams/bspremium1.m3u8
+
+Beinsport Premium 2
+/LiveApp/streams/bspremium2.m3u8
+
+Beinsport Premium 3
+/LiveApp/streams/bspremium3.m3u8
+
+Beinsport English 1
+/LiveApp/streams/bseng1.m3u8
+
+Beinsport English 2
+/LiveApp/streams/bseng2.m3u8
+
+Beinsport English 3
+/LiveApp/streams/bseng3.m3u8
+
+Arena Sport 1
+/LiveApp/streams/arenasp1.m3u8
+
+Arena Sport 2
+/LiveApp/streams/arenasp2.m3u8
+
+Beinsport 5
+/LiveApp/streams/sb5_ar.m3u8
+
+Beinsport Xtra
+/LiveApp/streams/bsxtra1.m3u8
+
+Golf HD
+/LiveApp/streams/golf_hd.m3u8
+
+Skysport Golf
+/LiveApp/streams/sksp_golf.m3u8
+
+Sony Ten 2
+/LiveApp/streams/sony2.m3u8
+
+Starsport Select 1
+/LiveApp/streams/sselect1.m3u8
+
+Starsport Select 2
+/LiveApp/streams/sselect2.m3u8
+
+
+
