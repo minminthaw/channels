@@ -16,13 +16,19 @@ https://thuta.mmsport.live/LiveApp/streams/bseng2.m3u8
 Beinsport English 3
 https://thuta.mmsport.live/LiveApp/streams/bseng3.m3u8
 
-Arena Sport 1
-https://thuta.mmsport.live/LiveApp/streams/arenasp1.m3u8
+AR: Beinsport 1
+https://thuta.mmsport.live/LiveApp/streams/bs1_ar.m3u8
 
-Arena Sport 2
-https://thuta.mmsport.live/LiveApp/streams/arenasp2.m3u8
+AR: Beinsport 2
+https://thuta.mmsport.live/LiveApp/streams/bs2_ar.m3u8
 
-Beinsport 5
+AR: Beinsport 3
+https://thuta.mmsport.live/LiveApp/streams/bs3_ar.m3u8
+
+AR: Beinsport 4
+https://thuta.mmsport.live/LiveApp/streams/bs4_ar.m3u8
+
+AR: Beinsport 5
 https://thuta.mmsport.live/LiveApp/streams/bs5_ar.m3u8
 
 Beinsport Xtra
