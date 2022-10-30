@@ -27,4 +27,6 @@ France: RMC Sport 2
 France: RMC Sport 3
 Turkey: Beinsport 1 to 4
 MUTV
+Sony Ten 1,2,3
+BT Sprot 1,2,3
 
