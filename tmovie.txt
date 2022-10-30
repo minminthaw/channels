@@ -1,0 +1,50 @@
+Beinsport Premium 1
+https://tmovie.mmsport.live/LiveApp/streams/bspremium1.m3u8
+
+Beinsport Premium 2
+https://tmovie.mmsport.live/LiveApp/streams/bspremium2.m3u8
+
+Beinsport Premium 3
+https://tmovie.mmsport.live/LiveApp/streams/bspremium3.m3u8
+
+Beinsport English 1
+https://tmovie.mmsport.live/LiveApp/streams/bseng1.m3u8
+
+Beinsport English 2
+https://tmovie.mmsport.live/LiveApp/streams/bseng2.m3u8
+
+Beinsport English 3
+https://tmovie.mmsport.live/LiveApp/streams/bseng3.m3u8
+
+AR: Beinsport 1
+https://tmovie.mmsport.live/LiveApp/streams/bs1_ar.m3u8
+
+AR: Beinsport 2
+https://tmovie.mmsport.live/LiveApp/streams/bs2_ar.m3u8
+
+AR: Beinsport 3
+https://tmovie.mmsport.live/LiveApp/streams/bs3_ar.m3u8
+
+AR: Beinsport 4
+https://tmovie.mmsport.live/LiveApp/streams/bs4_ar.m3u8
+
+AR: Beinsport 5
+https://tmovie.mmsport.live/LiveApp/streams/bs5_ar.m3u8
+
+Beinsport Xtra
+https://tmovie.mmsport.live/LiveApp/streams/bsxtra1.m3u8
+
+Golf HD
+https://tmovie.mmsport.live/LiveApp/streams/golf_hd.m3u8
+
+Skysport Golf
+https://tmovie.mmsport.live/LiveApp/streams/sksf_golf.m3u8
+
+Sony Ten 2
+https://tmovie.mmsport.live/LiveApp/streams/sony2.m3u8
+
+Starsport Select 1
+https://tmovie.mmsport.live/LiveApp/streams/sselect1.m3u8
+
+Starsport Select 2
+https://tmovie.mmsport.live/LiveApp/streams/sselect2.m3u8
