@@ -34,11 +34,11 @@ https://tmovie.b-cdn.net/LiveApp/streams/bs5_ar.m3u8
 Beinsport Xtra
 https://tmovie.b-cdn.net/LiveApp/streams/bsxtra1.m3u8
 
-Golf HD
-https://tmovie.b-cdn.net/LiveApp/streams/golf_hd.m3u8
+UFC Fight Pass
+https://tmovie.b-cdn.net/LiveApp/streams/ufc_fp.m3u8
 
-Skysport Golf
-https://tmovie.b-cdn.net/LiveApp/streams/sksf_golf.m3u8
+WWE
+https://tmovie.b-cdn.net/LiveApp/streams/wwe_hd.m3u8
 
 Sony Ten 2
 https://tmovie.b-cdn.net/LiveApp/streams/sony2.m3u8
