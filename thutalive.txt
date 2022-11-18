@@ -49,8 +49,8 @@ https://thuta.mmsport.live/LiveApp/streams/ssv1.m3u8
 Supersport Premier League
 https://thuta.mmsport.live/LiveApp/streams/ssepl.m3u8
 
-Supersport Laliga
-https://thuta.mmsport.live/LiveApp/streams/sslaliga.m3u8
+FR: Beinsport 1
+https://thuta.mmsport.live/LiveApp/streams/bs1_fr.m3u8
 
 Sport TV 1
 https://thuta.mmsport.live/LiveApp/streams/sptv1.m3u8
