@@ -31,26 +31,26 @@ https://thuta.mmsport.live/LiveApp/streams/bs4_ar.m3u8
 AR: Beinsport 5
 https://thuta.mmsport.live/LiveApp/streams/bs5_ar.m3u8
 
-Beinsport Xtra
-https://thuta.mmsport.live/LiveApp/streams/bsxtra1.m3u8
-
-Golf HD
-https://thuta.mmsport.live/LiveApp/streams/golf_hd.m3u8
-
-Skysport Golf
-https://thuta.mmsport.live/LiveApp/streams/sksf_golf.m3u8
-
 Sony Ten 2
 https://thuta.mmsport.live/LiveApp/streams/sony2.m3u8
 
 Starsport Select 1
 https://thuta.mmsport.live/LiveApp/streams/sselect1.m3u8
 
-Starsport Select 2
-https://thuta.mmsport.live/LiveApp/streams/sselect2.m3u8
-
 UFC Fight Pass
 https://thuta.mmsport.live/LiveApp/streams/ufc_fp.m3u8
 
 WWE
 https://thuta.mmsport.live/LiveApp/streams/wwe_hd.m3u8
+
+Supersport Variety 1
+https://thuta.mmsport.live/LiveApp/streams/ssv1.m3u8
+
+Supersport Premier League
+https://thuta.mmsport.live/LiveApp/streams/ssepl.m3u8
+
+Supersport Laliga
+https://thuta.mmsport.live/LiveApp/streams/sslaliga.m3u8
+
+Sport TV 1
+https://thuta.mmsport.live/LiveApp/streams/sptv1.m3u8
