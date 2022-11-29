@@ -43,7 +43,7 @@ https://thuta.mmsport.live/LiveApp/streams/ufc_fp.m3u8
 WWE
 https://thuta.mmsport.live/LiveApp/streams/wwe_hd.m3u8
 
-Supersport Variety 1
+TSN 1
 https://thuta.mmsport.live/LiveApp/streams/ssv1.m3u8
 
 Supersport Premier League
@@ -54,3 +54,45 @@ https://thuta.mmsport.live/LiveApp/streams/bs1_fr.m3u8
 
 Sport TV 1
 https://thuta.mmsport.live/LiveApp/streams/sptv1.m3u8
+
+
+------------------------------------------------------------
+
+-AR: Beinsport 3
+https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41744.m3u8
+-AR: Beinsport 4
+https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41745.m3u8
+-AR: Beinsport 5
+https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41746.m3u8
+-FR: Beinsport 1
+https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41760.m3u8
+-AR: Beinsport Premium 1
+https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41763.m3u8
+-AR: Beinsport Premium 2
+https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41764.m3u8
+-AR: Beinsport Premium 3
+https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41765.m3u8
+-AR: Beinsport 1
+https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/43363.m3u8
+-AR: Beinsport 2
+https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/43364.m3u8
+-Beinsport English 1
+https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/43710.m3u8
+-Beinsport English 2
+https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/43711.m3u8
+-Beinsport English 3
+https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/43712.m3u8
+-TSN 1
+https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/57185.m3u8
+-TSN 3
+https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/57186.m3u8
+-Starsport Select 1
+https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41766.m3u8
+-Starsport Select 2
+https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41767.m3u8
+-UFC
+https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41817.m3u8
+-WWE
+https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41818.m3u8
+-Sport TV 1 HD
+https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41828.m3u8
