@@ -1,56 +1,30 @@
-Beinsport Premium 1
-https://soccerlivetv.b-cdn.net/LiveApp/streams/bspremium1.m3u8
-
-Beinsport Premium 2
-https://soccerlivetv.b-cdn.net/LiveApp/streams/bspremium2.m3u8
-
-Beinsport Premium 3
-https://soccerlivetv.b-cdn.net/LiveApp/streams/bspremium3.m3u8
-
-Beinsport English 1
-https://soccerlivetv.b-cdn.net/LiveApp/streams/bseng1.m3u8
-
-Beinsport English 2
-https://soccerlivetv.b-cdn.net/LiveApp/streams/bseng2.m3u8
-
-Beinsport English 3
-https://soccerlivetv.b-cdn.net/LiveApp/streams/bseng3.m3u8
-
-AR: Beinsport 1
-https://soccerlivetv.b-cdn.net/LiveApp/streams/bs1_ar.m3u8
-
-AR: Beinsport 2
-https://soccerlivetv.b-cdn.net/LiveApp/streams/bs2_ar.m3u8
-
-AR: Beinsport 3
-https://soccerlivetv.b-cdn.net/LiveApp/streams/bs3_ar.m3u8
-
-AR: Beinsport 4
-https://soccerlivetv.b-cdn.net/LiveApp/streams/bs4_ar.m3u8
-
-AR: Beinsport 5
-https://soccerlivetv.b-cdn.net/LiveApp/streams/bs5_ar.m3u8
-
-Sony Ten 2
-https://soccerlivetv.b-cdn.net/LiveApp/streams/sony2.m3u8
-
-Starsport Select 1
-https://soccerlivetv.b-cdn.net/LiveApp/streams/sselect1.m3u8
-
-UFC Fight Pass
-https://soccerlivetv.b-cdn.net/LiveApp/streams/ufc_fp.m3u8
-
-WWE
-https://soccerlivetv.b-cdn.net/LiveApp/streams/wwe_hd.m3u8
-
-TSN 3
-https://soccerlivetv.b-cdn.net/LiveApp/streams/ssv1.m3u8
-
-TSN 1
-https://soccerlivetv.b-cdn.net/LiveApp/streams/ssepl.m3u8
-
-FR: Beinsport 1
-https://soccerlivetv.b-cdn.net/LiveApp/streams/bs1_fr.m3u8
-
-Sport TV 1
-https://soccerlivetv.b-cdn.net/LiveApp/streams/sptv1.m3u8
+-AR: Beinsport 3
+https://s1.iptvclient.xyz:443/live/8B03DAB3234AF9A7DDC0B42951744030/41744.m3u8
+-AR: Beinsport 4
+https://s1.iptvclient.xyz:443/live/8B03DAB3234AF9A7DDC0B42951744030/41745.m3u8
+-AR: Beinsport 5
+https://s1.iptvclient.xyz:443/live/8B03DAB3234AF9A7DDC0B42951744030/41746.m3u8
+-AR: Beinsport Premium 1
+https://s1.iptvclient.xyz:443/live/8B03DAB3234AF9A7DDC0B42951744030/41763.m3u8
+-AR: Beinsport Premium 2
+https://s1.iptvclient.xyz:443/live/8B03DAB3234AF9A7DDC0B42951744030/41764.m3u8
+-AR: Beinsport Premium 3
+https://s1.iptvclient.xyz:443/live/8B03DAB3234AF9A7DDC0B42951744030/41765.m3u8
+-FR: Beinsport 1
+https://s1.iptvclient.xyz:443/live/8B03DAB3234AF9A7DDC0B42951744030/41760.m3u8
+-Beinsport English 1
+https://s1.iptvclient.xyz:443/live/8B03DAB3234AF9A7DDC0B42951744030/43710.m3u8
+-Beinsport English 2
+https://s1.iptvclient.xyz:443/live/8B03DAB3234AF9A7DDC0B42951744030/43711.m3u8
+-Beinsport English 3
+https://s1.iptvclient.xyz:443/live/8B03DAB3234AF9A7DDC0B42951744030/43712.m3u8
+-AR: Beinsport 1
+https://s1.iptvclient.xyz:443/live/8B03DAB3234AF9A7DDC0B42951744030/43363.m3u8
+-AR: Beinsport 2
+https://s1.iptvclient.xyz:443/live/8B03DAB3234AF9A7DDC0B42951744030/43364.m3u8
+-TSN 1
+https://s1.iptvclient.xyz:443/live/8B03DAB3234AF9A7DDC0B42951744030/57185.m3u8
+-TSN 3
+https://s1.iptvclient.xyz:443/live/8B03DAB3234AF9A7DDC0B42951744030/57186.m3u8
+-Sport TV 1 HD
+https://s1.iptvclient.xyz:443/live/8B03DAB3234AF9A7DDC0B42951744030/41828.m3u8
