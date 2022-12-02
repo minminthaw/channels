@@ -7,15 +7,6 @@ https://thuta.mmsport.live/LiveApp/streams/bspremium2.m3u8
 Beinsport Premium 3
 https://thuta.mmsport.live/LiveApp/streams/bspremium3.m3u8
 
-Beinsport English 1
-https://thuta.mmsport.live/LiveApp/streams/bseng1.m3u8
-
-Beinsport English 2
-https://thuta.mmsport.live/LiveApp/streams/bseng2.m3u8
-
-Beinsport English 3
-https://thuta.mmsport.live/LiveApp/streams/bseng3.m3u8
-
 AR: Beinsport 1
 https://thuta.mmsport.live/LiveApp/streams/bs1_ar.m3u8
 
@@ -28,35 +19,19 @@ https://thuta.mmsport.live/LiveApp/streams/bs3_ar.m3u8
 AR: Beinsport 4
 https://thuta.mmsport.live/LiveApp/streams/bs4_ar.m3u8
 
-AR: Beinsport 5
-https://thuta.mmsport.live/LiveApp/streams/bs5_ar.m3u8
-
-Sony Ten 2
-https://thuta.mmsport.live/LiveApp/streams/sony2.m3u8
-
 Starsport Select 1
 https://thuta.mmsport.live/LiveApp/streams/sselect1.m3u8
-
-UFC Fight Pass
-https://thuta.mmsport.live/LiveApp/streams/ufc_fp.m3u8
-
-WWE
-https://thuta.mmsport.live/LiveApp/streams/wwe_hd.m3u8
 
 TSN 1
 https://thuta.mmsport.live/LiveApp/streams/mcTYe7V443l4mb.m3u8
 
-TSN 2
-https://thuta.mmsport.live/LiveApp/streams/ME8t6i8PqvtQwq.m3u8
-
 TSN 3
 https://thuta.mmsport.live/LiveApp/streams/33ZO71WaL95uMS.m3u8
 
+AR: Beinsport Max 1
+https://thuta.mmsport.live/LiveApp/streams/ME8t6i8PqvtQwq.m3u8
 
-FR: Beinsport 1
-https://thuta.mmsport.live/LiveApp/streams/bs1_fr.m3u8
-
-Sport TV 1
+AR: Beinsport Max 2
 https://thuta.mmsport.live/LiveApp/streams/197381996474721969472316.m3u8
 
 
