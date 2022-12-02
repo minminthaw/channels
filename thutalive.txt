@@ -16,7 +16,7 @@ https://thuta.mmsport.live/LiveApp/streams/bs2_ar.m3u8
 AR: Beinsport 3
 https://thuta.mmsport.live/LiveApp/streams/bs3_ar.m3u8
 
-AR: Beinsport 4
+TRT 1
 https://thuta.mmsport.live/LiveApp/streams/bs4_ar.m3u8
 
 Starsport Select 1
