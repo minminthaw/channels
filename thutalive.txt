@@ -7,10 +7,10 @@ https://thuta.mmsport.live/LiveApp/streams/bspremium2.m3u8
 Beinsport Premium 3
 https://thuta.mmsport.live/LiveApp/streams/bspremium3.m3u8
 
-AR: Beinsport 1
+Sport TV 1
 https://thuta.mmsport.live/LiveApp/streams/bs1_ar.m3u8
 
-AR: Beinsport 2
+Sport TV 2
 https://thuta.mmsport.live/LiveApp/streams/bs2_ar.m3u8
 
 AR: Beinsport 3
