@@ -13,8 +13,15 @@ https://thuta.mmsport.live/LiveApp/streams/bs1_ar.m3u8
 Sport TV 2
 https://thuta.mmsport.live/LiveApp/streams/bs2_ar.m3u8
 
-AR: Beinsport 3
-https://thuta.mmsport.live/LiveApp/streams/bs3_ar.m3u8
+BT Sport 1
+https://thuta.mmsport.live/LiveApp/streams/535600224894383118854420.m3u8
+
+BT Sport 2
+https://thuta.mmsport.live/LiveApp/streams/793471817638924191683657.m3u8
+
+BT Sport 3
+https://thuta.mmsport.live/LiveApp/streams/396774936554110352939790.m3u8
+
 
 FR: Beinsport 2
 https://thuta.mmsport.live/LiveApp/streams/442005623075614138775452.m3u8
