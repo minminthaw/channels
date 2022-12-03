@@ -22,6 +22,9 @@ https://thuta.mmsport.live/LiveApp/streams/442005623075614138775452.m3u8
 Starsport Select 1
 https://thuta.mmsport.live/LiveApp/streams/sselect1.m3u8
 
+Starsport Select 2
+https://thuta.mmsport.live/LiveApp/streams/sselect2.m3u8
+
 TSN 1
 https://thuta.mmsport.live/LiveApp/streams/mcTYe7V443l4mb.m3u8
 
