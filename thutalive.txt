@@ -39,10 +39,10 @@ AR: Beinsport 2
 https://s1.iptvclient.xyz:8443/live/8B03DAB3234AF9A7DDC0B42951744030/43364.m3u8
 
 -AR: Beinsport 3
-https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41744.m3u8
+https://s1.iptvclient.xyz:8443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41744.m3u8
 
 -AR: Beinsport 4
-https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41745.m3u8
+https://s1.iptvclient.xyz:8443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41745.m3u8
 
 
 ------------------------------------------------------------
