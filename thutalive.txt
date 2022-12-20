@@ -32,56 +32,10 @@ https://thuta.mmsport.live/LiveApp/streams/sselect1.m3u8
 Starsport Select 2
 https://thuta.mmsport.live/LiveApp/streams/sselect2.m3u8
 
-TSN 1
-https://thuta.mmsport.live/LiveApp/streams/mcTYe7V443l4mb.m3u8
-
-TSN 3
-https://thuta.mmsport.live/LiveApp/streams/33ZO71WaL95uMS.m3u8
-
-AR: Beinsport Max 1
-https://thuta.mmsport.live/LiveApp/streams/ME8t6i8PqvtQwq.m3u8
-
-AR: Beinsport Max 2
-https://thuta.mmsport.live/LiveApp/streams/197381996474721969472316.m3u8
-
-
-------------------------------------------------------------
-
 -AR: Beinsport 3
 https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41744.m3u8
 -AR: Beinsport 4
 https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41745.m3u8
--AR: Beinsport 5
-https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41746.m3u8
--FR: Beinsport 1
-https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41760.m3u8
--AR: Beinsport Premium 1
-https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41763.m3u8
--AR: Beinsport Premium 2
-https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41764.m3u8
--AR: Beinsport Premium 3
-https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41765.m3u8
--AR: Beinsport 1
-https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/43363.m3u8
--AR: Beinsport 2
-https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/43364.m3u8
--Beinsport English 1
-https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/43710.m3u8
--Beinsport English 2
-https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/43711.m3u8
--Beinsport English 3
-https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/43712.m3u8
--TSN 1
-https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/57185.m3u8
--TSN 3
-https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/57186.m3u8
--Starsport Select 1
-https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41766.m3u8
--Starsport Select 2
-https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41767.m3u8
--UFC
-https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41817.m3u8
--WWE
-https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41818.m3u8
--Sport TV 1 HD
-https://s1.iptvclient.xyz:443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41828.m3u8
+
+
+------------------------------------------------------------
