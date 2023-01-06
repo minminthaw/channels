@@ -1,0 +1,29 @@
+Android TV, Android Box, Android ဖုန်း, iPhone, iPad တို့မှာဆိုရင် - 
+XCIPTV Player, Smarters Player Lite ဆော့ဝဲသုံးပါ။ XCIPTV Player ကို အဓိကထားသုံးပါ။
+
+XCIPTV Player အကောင့်ထည့်နည်း - 
+XC Api Url မှာ http://protvmm.live ထည့်ပါ။
+Username နဲ့ Password မှာ ကိုယ်ထုတ်ထားတဲ့အကောင့်အတိုင်းထည့်ပါ။
+
+Smarters Player Lite အကောင့်ထည့်နည်း - 
+Login with xtream codes api ကိုနှိပ်ပါ။
+Any Name မှာ ကြိုက်တာထည့်ပါ။
+Username နဲ့ Password မှာ ကိုယ်ထုတ်ထားတဲ့ဟာထည့်ပါ။
+Url မှာ http://protvmm.live ထည့်ပြီးတော့ Add User နှိပ်ပါ။ ပေါ်လာတဲ့ Profile ကိုနှိပ်ပြီး ကြည့်လို့ရပါပြီ။
+
+Laptop, PC တို့အတွက်ဆိုရင် Browser ကနေ
+http://play.protvmm.live ကိုသွားပါ။ Username, Password တို့နဲ့ Login ဝင်ပြီး ကြည့်လို့ရပါပြီ။
+
+
+-------------------------------------------
+Panel ပိုင်းဆိုင်ရာ - 
+
+အစမ်းအကောင့်ထုတ်မယ်ဆိုရင် 
+Lines > User Lines > Generate Trial Line ကနေ အစမ်းအကောင့်ထုတ်ပါ။ Username နဲ့ Password အနည်းဆုံး ၈ လုံးရှိရပါမယ်။
+
+ထုတ်ထားတဲ့အစမ်းအကောင့်ကို သက်တမ်းတိုးမယ်ဆိုရင် 
+Lines > User Lines > Manage Lines ကနေ သက်တမ်းတိုးမယ့်အကောင့်ကို ခဲတံပုံ(Edit) နှိပ်ပြီး Package မှာ တိုးလိုတဲ့ Plan ရွေးတိုးပါ။
+
+အကောင့်တန်းတယ်လို့ အကောင့်ထုတ်မယ်ဆိုရင်
+Lines > User Lines > Add Lines ကနေ ဝယ်မယ့် Plan ရွေးပြီး အကောင့်ထုတ်ပါ။
+
