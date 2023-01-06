@@ -21,7 +21,18 @@ Url မှာ http://protvmm.live ထည့်ပြီးတော့ Add User 
 Laptop, PC တို့အတွက်ဆိုရင် Browser ကနေ
 http://play.protvmm.live ကိုသွားပါ။ Username, Password တို့နဲ့ Login ဝင်ပြီး ကြည့်လို့ရပါပြီ။
 
+Samsung/LG Smart TV တို့ဆိုရင်- 
+Samsung Store, LG Store တို့ကနေ Smart TV Club ဆိုတဲ့ဆော့ဝဲဒေါင်းပါ။
+ဆော့ဝဲကိုဖွင့်လိုက်ရင် TV ID ဆိုတဲ့ ဂဏန်းတွေ ပေါ်လာပါလိမ့်မယ်။ အဲ့ ဂဏန်းတွေကိုမှတ်ထားပါ။
 
+https://smarttv.club/upload-channels/ ကိုသွားပါ။
+Device ID မှာ TV ID ဆိုတဲ့ ဂဏန်းတွေထည့်ပါ။
+Country, Email တို့မှာအဆင်ပြေရာထည့်ပါ။
+
+Panel ထဲမှာ အကောင့်တစ်ခုထုတ်ပါ။ ထုတ်ထားတဲ့အကောင့်ရဲ့ Download Playlist ကိုနှိပ်ပါ။ 
+M3u Plus ထဲက M3U Plus- MPEGTS ကိုရွေးလိုက်ရင် အောက်မှာ လင့်ပေါ်လာပါလိမ့်မယ်။ အဲ့လင့်ကိုကူးပြီးတော့  https://smarttv.club/upload-channels/ က 
+M3U Url မှာ ထည့်ပြီးတော့ Submit နှိပ်ပါ။
+TV မှာ ဆော့ဝဲကို ပြန်ထွက် ပြန်ဝင်လိုက်ရင် လိုင်းတွေပေါ်နေလောက်ပါပြီ။
 -------------------------------------------
 Panel ပိုင်းဆိုင်ရာ - 
 
