@@ -34,11 +34,11 @@ https://s1.iptvclient.xyz:8443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41767.m3u8
 - Skysport Main Event
 https://s1.iptvclient.xyz:8443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41800.m3u8
 
-- Skysport Football
-https://s1.iptvclient.xyz:8443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41799.m3u8
+- True Premier Football 1
+https://s1.iptvclient.xyz:8443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/57187.m3u8
 
-- Skysport Premier League
-https://s1.iptvclient.xyz:8443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41798.m3u8
+True Premier Football 2
+https://s1.iptvclient.xyz:8443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/57188.m3u8
 
 - Astro Supersport 2
 https://s1.iptvclient.xyz:8443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/57186.m3u8
