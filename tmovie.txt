@@ -41,14 +41,14 @@ https://s1.iptvclient.xyz:8443/live/FD2BF8017217E611F234719E86D24298/41772.m3u8
 Sony Ten 3
 https://s1.iptvclient.xyz:8443/live/FD2BF8017217E611F234719E86D24298/41773.m3u8
 
-Skynet Sports 5
-https://s1.iptvclient.xyz:8443/live/FD2BF8017217E611F234719E86D24298/56534.m3u8
+FR: Beinsport 1
+https://s1.iptvclient.xyz:8443/live/FD2BF8017217E611F234719E86D24298/41760.m3u8
 
-Skynet Sports 6
-https://s1.iptvclient.xyz:8443/live/FD2BF8017217E611F234719E86D24298/56535.m3u8
+FR: Beinsport 2
+https://s1.iptvclient.xyz:8443/live/FD2BF8017217E611F234719E86D24298/41761.m3u8
 
-Skynet Sports HD
-https://s1.iptvclient.xyz:8443/live/FD2BF8017217E611F234719E86D24298/56767.m3u8
+FR: Beinsport 3
+https://s1.iptvclient.xyz:8443/live/FD2BF8017217E611F234719E86D24298/41762.m3u8
 
 
 
