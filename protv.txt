@@ -1,5 +1,85 @@
-AR: Beinsport Premium 1
-http://pull-3298.5centscdn.com/LiveApp/streams/bsp1_ar.m3u8
+Reseller Panel Login - 
+http://cp.protvmm.live/reseller
+Username - ပေးထားတာထည့်ပါ
+Password - ပေးထားတာထည့်ပါ
 
-AR: Beinsport Premium 2
-http://pull-3298.5centscdn.com/LiveApp/streams/bsp2_ar.m3u8
+
+
+အစမ်းအကောင့်ထုတ်နည်း - 
+Lines > User Lines > Generate Trial Line > 
+Username နဲ့ Password ကို ကြိုက်ရာထားပါ၊ တူအောင်ထားပါ။ သက်ဆိုင်ရာ Package ရွေး၊ Next နှိပ်သွားပြီး နောက်ဆုံးကျရင် Purchase နှိပ်ပါ။ အစမ်းအကောင့်ထုတ်ပြီးသွားပါပြီ။
+များသောအားဖြင့် Username နဲ့ Password ကို ဝယ်သူရဲ့ ဖုန်းနံပါတ်ထားလို့ကောင်းပါတယ်။ သက်တမ်းကုန်ရင် ကိုယ့်ဘက်က ဆက်သွယ်လို့ရအောင်လို့။
+အစမ်းအသုံးပြုပြီး User က ဝယ်ယူမယ်ဆိုရင် အစမ်းအကောင့်ကိုပဲ သက်တမ်းတိုးပေးလို့ရပါတယ်။
+Lines > User Lines > Manage Lines ထဲကနေ သက်တမ်းတိုးမယ့်အကောင့်နံပါတ်ကိုရှာပြီး Edit(ခဲတံပုံလေး) နှိပ်ပါ။ Package မှာ ဘယ် Package တိုးပေးမလဲ သက်ဆိုင်ရာရွေးပြီး Edit နှိပ်ပါ။
+
+အကောင့်သစ် တန်းထုတ်ခြင်း - 
+Lines > User Lines > Add User Line > အပေါ်ကအတိုင်းပါပဲ။ Package မှာပဲ သက်ဆိုင်ရာ တစ်လ/သုံးလ စသဖြင့် Package ရွေးပါ။ သက်တမ်းတိုးတာလည်း အတူတူပါပဲ
+
+---------------------------------------------
+
+ဘာစက်တွေနဲ့ ကြည့်လို့ရလဲ - 
+Android TV, Android Box, Android Phone, iPhone, iPad, Laptop, Samsung Smart TV, LG Smart TV
+
+Android TV/Android Box/Android Phone တို့တွင် အသုံးပြနိုင်သော ဆော့ဝဲများ - 
+XCIPTV Player, Smart IPTV Xtream Player, VU IPTV Player - အကုန်လုံး Playstore မှာ ဒေါင်းလုတ်ဆွဲနိုင်သည်။
+XCIPTV Player က တစ်ချို့စက်တွေမှာ Movie ကြည့်ရင်း ထွက်သွားတတ်တာမျိုးရှိပါတယ်။
+Smart IPTV Xtream Player က အချို့စက်တွေမှာ Player ပြောင်းပေးရပါတယ်။ Menu > Player Selection ထဲမှာ Movie နဲ့ Serie ကို Default Player ပြောင်းပေးပါ။
+ဖုန်းမှာဆိုရင် VU IPTV Player ကို အဓိကထားသုံးခိုင်းပါ။
+
+MI TV တော်တော်များများက Playstore မပါပါဘူး။ ပြီးတော့ XCIPTV Player နဲ့ မကိုက်ကြပါဘူး။ အဲ့လိုဆိုရင် User ကို Aptoide TV ဆော့ဝဲပါလားမေးပါ။ ပါရင် Aptoide TV ကနေ အပေါ်မှာ ပြောခဲ့တဲ့ဆော့ဝဲတွေ
+ဒေါင်းလို့ရပါတယ်။
+
+-------------------------------------------------------------------
+
+iPhone, iPad တို့အတွက်ကတော့ 
+App Store ကနေ XCIPTV Player ဒေါင်းခိုင်းပါ။
+
+-------------------------------------------------------------------
+Laptop/Desktop/PC
+
+Browser ကနေ ကြည့်ရမှာပါ။
+http://s.iptvclient.xyz/webplayer
+အဲ့မှာ Username, Password နဲ့ ဝင်ပြီးကြည့်လို့ရပါတယ်
+
+---------------------------------------------------------------------
+
+Samsung/LG Smart TV - 
+Samsung ဆိုရင် Samsung App Store ကနေ IPTV Smarter Pro ဆိုတာကိုဒေါင်းပါ
+LG ဆိုရင် LG Content Store ကနေ IPTV Smarter Pro ဆိုတာကိုဒေါင်းပါ။
+အဲ့ Store တွေမပါရင် အဲ့ TV က မရပါဘူး
+-----------------------------------------------------------------------------------------------
+
+
+အကောင့်ထည့်နည်းများ - 
+XCIPTV Player- 
+XC Api Url/Portal Address မှာ http://s.iptvclient.xyz
+Username နဲ့ Password က ပေးထားတဲ့အတိုင်းထည့်ပါ။
+Login ဝင်ပြီးကြည့်လို့ရပါပြီ။
+
+Smart IPTV Xtream Player - 
+Add Profile ကိုနှိပ်ပါ။
+Login With Xtream Codes Api ကိုနှိပ်ပါ။
+Name မှာ ကြိုက်ရာထည့်ပါ
+Username နဲ့ Password မှာ ပေးထားတာထည့်ပါ။
+အောက်ဆုံး Url မှာ http://s.iptvclient.xyz ထည့်ပါ။
+ဝင်ကြည့်လို့ရပါပြီ။
+
+VU IPTV Player - 
+Login With Xtream Codes Api ကိုနှိပ်ပါ။
+Name မှာ ကြိုက်ရာထည့်ပါ
+Username နဲ့ Password မှာ ပေးထားတာထည့်ပါ။
+အောက်ဆုံး Url မှာ http://s.iptvclient.xyz ထည့်ပါ။
+ဝင်ကြည့်လို့ရပါပြီ။
+
+IPTV Smarter Pro(Samsung/LG) - 
+Name မှာ ကြိုက်ရာထည့်ပါ
+Username နဲ့ Password မှာ ပေးထားတာထည့်ပါ။
+အောက်ဆုံး Url မှာ http://s.iptvclient.xyz ထည့်ပါ။
+ဝင်ကြည့်လို့ရပါပြီ။
+
+
+
+
+
+
+
