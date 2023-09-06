@@ -55,6 +55,7 @@ XCIPTV Player-
 XC Api Url/Portal Address မှာ http://s.iptvclient.xyz
 Username နဲ့ Password က ပေးထားတဲ့အတိုင်းထည့်ပါ။
 Login ဝင်ပြီးကြည့်လို့ရပါပြီ။
+!!!!!!! ကြည့်ခါနီးတိုင်း ညာဘက်အပေါ်ထောင့်က Update ဆိုတာလေးနှိပ်ပေးပါ။ ဒါမှ အသစ်တင်ထားတဲ့လိုင်းတွေ ဇာတ်ကားတွေ ပေါ်လာမှာပါ
 
 Smart IPTV Xtream Player - 
 Add Profile ကိုနှိပ်ပါ။
@@ -63,6 +64,7 @@ Name မှာ ကြိုက်ရာထည့်ပါ
 Username နဲ့ Password မှာ ပေးထားတာထည့်ပါ။
 အောက်ဆုံး Url မှာ http://s.iptvclient.xyz ထည့်ပါ။
 ဝင်ကြည့်လို့ရပါပြီ။
+!!!!!!! ကြည့်ခါနီးတိုင်း Refresh Data လုပ်ပေးပါ။ ဒါမှ အသစ်တင်ထားတဲ့လိုင်းတွေ ဇာတ်ကားတွေ ပေါ်လာမှာပါ
 
 VU IPTV Player - 
 Login With Xtream Codes Api ကိုနှိပ်ပါ။
@@ -70,12 +72,14 @@ Name မှာ ကြိုက်ရာထည့်ပါ
 Username နဲ့ Password မှာ ပေးထားတာထည့်ပါ။
 အောက်ဆုံး Url မှာ http://s.iptvclient.xyz ထည့်ပါ။
 ဝင်ကြည့်လို့ရပါပြီ။
+!!!!!!! ကြည့်ခါနီးတိုင်း Refresh လုပ်ပေးပါ။ ဒါမှ အသစ်တင်ထားတဲ့လိုင်းတွေ ဇာတ်ကားတွေ ပေါ်လာမှာပါ
 
 IPTV Smarter Pro(Samsung/LG) - 
 Name မှာ ကြိုက်ရာထည့်ပါ
 Username နဲ့ Password မှာ ပေးထားတာထည့်ပါ။
 အောက်ဆုံး Url မှာ http://s.iptvclient.xyz ထည့်ပါ။
 ဝင်ကြည့်လို့ရပါပြီ။
+!!!!!!! ကြည့်ခါနီးတိုင်း Refresh လုပ်ပေးပါ။ ဒါမှ အသစ်တင်ထားတဲ့လိုင်းတွေ ဇာတ်ကားတွေ ပေါ်လာမှာပါ
 
 
 
