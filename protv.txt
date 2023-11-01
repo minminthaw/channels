@@ -21,13 +21,12 @@ Lines > User Lines > Add User Line > အပေါ်ကအတိုင်းပ�
 Android TV, Android Box, Android Phone, iPhone, iPad, Laptop, Samsung Smart TV, LG Smart TV
 
 Android TV/Android Box/Android Phone တို့တွင် အသုံးပြနိုင်သော ဆော့ဝဲများ - 
-XCIPTV Player, Smart IPTV Xtream Player, VU IPTV Player - အကုန်လုံး Playstore မှာ ဒေါင်းလုတ်ဆွဲနိုင်သည်။
+အဓိက အသုံးပြုရန်  - IPTV Smarter Pro ကိုအဓိကထားသုံးပါ။ ဒေါင်းရန်လင့် - bit.ly/ispsm2023
+
+
+XCIPTV Player, Smart IPTV Xtream Player အကုန်လုံး Playstore မှာ ဒေါင်းလုတ်ဆွဲနိုင်သည်။
 XCIPTV Player က တစ်ချို့စက်တွေမှာ Movie ကြည့်ရင်း ထွက်သွားတတ်တာမျိုးရှိပါတယ်။
 Smart IPTV Xtream Player က အချို့စက်တွေမှာ Player ပြောင်းပေးရပါတယ်။ Menu > Player Selection ထဲမှာ Movie နဲ့ Serie ကို Default Player ပြောင်းပေးပါ။
-ဖုန်းမှာဆိုရင် VU IPTV Player ကို အဓိကထားသုံးခိုင်းပါ။
-
-MI TV တော်တော်များများက Playstore မပါပါဘူး။ ပြီးတော့ XCIPTV Player နဲ့ မကိုက်ကြပါဘူး။ အဲ့လိုဆိုရင် User ကို Aptoide TV ဆော့ဝဲပါလားမေးပါ။ ပါရင် Aptoide TV ကနေ အပေါ်မှာ ပြောခဲ့တဲ့ဆော့ဝဲတွေ
-ဒေါင်းလို့ရပါတယ်။
 
 -------------------------------------------------------------------
 
@@ -66,7 +65,8 @@ Username နဲ့ Password မှာ ပေးထားတာထည့်ပါ
 ဝင်ကြည့်လို့ရပါပြီ။
 !!!!!!! ကြည့်ခါနီးတိုင်း Refresh Data လုပ်ပေးပါ။ ဒါမှ အသစ်တင်ထားတဲ့လိုင်းတွေ ဇာတ်ကားတွေ ပေါ်လာမှာပါ
 
-VU IPTV Player - 
+IPTV Smarter Pro - 
+Mobile လား TV လားမေးခဲ့ရင် Mobile/TV သက်ဆိုင်ရာ ကိုယ့်စက်အမျိုးအစားရွေးပါ။ Android TV, Android Box တို့ဆိုရင် TV ရွေးရမှာပါ။ ဖုန်း၊ tablet တို့ဆိုရင် Mobile ရွေးရမှာပါ
 Login With Xtream Codes Api ကိုနှိပ်ပါ။
 Name မှာ ကြိုက်ရာထည့်ပါ
 Username နဲ့ Password မှာ ပေးထားတာထည့်ပါ။
@@ -80,6 +80,64 @@ Username နဲ့ Password မှာ ပေးထားတာထည့်ပါ
 အောက်ဆုံး Url မှာ http://s.iptvclient.xyz ထည့်ပါ။
 ဝင်ကြည့်လို့ရပါပြီ။
 !!!!!!! ကြည့်ခါနီးတိုင်း Refresh လုပ်ပေးပါ။ ဒါမှ အသစ်တင်ထားတဲ့လိုင်းတွေ ဇာတ်ကားတွေ ပေါ်လာမှာပါ
+
+
+Chat Template များ - --------------
+1. Android TV 
+Playstore ကနေ Downloader by AFTVnews ဆိုတဲ့ဆော့ဝဲကိုဒေါင်းပြီးဖွင့်လိုက်ပါ။
+ပြီးရင် အဲ့ထဲမှာ bit.ly/ispsm2023 လို့ ရိုက်ထည့်ပြီး Go ကိုနှိပ်ပါ။
+ဆော့ဝဲဒေါင်းသွားပါလိမ့်မယ်။ ဒေါင်းပြီးသွားရင် Install ဆိုတာကိုနှိပ်ပြီး Install လုပ်ပါ။ 
+ဒါဆိုရင် IPTV Smarter Pro ဆော့ဝဲကို ‌Instal လုပ်ပြီးသွားပါပြီ။
+ပြီးရင် ဖွင့်လိုက်ပါ။ 
+Login with xtream codes api ကိုနှိပ်ပါ။
+Mobile လား TV လား ရွေးခိုင်းရင် TV ကိုရွေးပြီး Save နှိပ်ပါ။
+Any Name မှာ ကြိုက်ရာထည်ပါ။
+Username နဲ့ Password မှာ ??????? ထည့်ပါ။
+အောက်ဆုံး Url မှာ http://s.iptvclient.xyz ထည့်ပြီး Add User နှိပ်ပါ။
+ကြည့်လို့ရပါပြီ။
+!!!!! သတိပြုပါရန် !!!!!!
+ကြည့်ခါနီးတိုင်း Refresh လုပ်ပါ။ ဒါမှ နေ့စဉ်တင်တဲ့ ဇာတ်ကားအသစ်
+လိုင်းအသစ်တွေ ပေါ်လာမှာပါ။ နေ့စဉ် ဘောပွဲတွေ Update မဖြစ်ရင်၊ ပေါ်မလာရင်လည်း နှိပ်လို့ရပါတယ်။
+
+2. Android Box
+Chrome Browser မှာ bit.ly/ispsm2023 လို့ ရိုက်ထည့်ပြီး Software ဒေါင်းလုတ်ရယူပါ။
+ဒေါင်းပြီးသွားရင် Install ဆိုတာကိုနှိပ်ပြီး Install လုပ်ပါ။ 
+Cancel နဲ့ Setting ဆိုပြီးပေါ်လာခဲ့ရင် Setting ကိုနှိပ်ပါ။
+Chrome ဆိုတာကို ဖွင့်ပေးလိုက်ပါ။ ပြီးရင် Install လုပ်ပါ။
+ဒါဆိုရင် IPTV Smarter Pro ဆော့ဝဲ ကို ‌Install လုပ်ပြီးသွားပါပြီ။
+ပြီးရင် ဖွင့်လိုက်ပါ။ 
+Login with xtream codes api ကိုနှိပ်ပါ။
+Mobile လား TV လား ရွေးခိုင်းရင် TV ကိုရွေးပြီး Save နှိပ်ပါ။
+Any Name မှာ ကြိုက်ရာထည့်ပါ။
+Username နဲ့ Password မှာ 605940874 ထည့်ပါ။
+အောက်ဆုံး Url မှာ http://s.iptvclient.xyz ထည့်ပြီး Add User နှိပ်ပါ။
+ကြည့်လို့ရပါပြီ။
+!!!!! သတိပြုပါရန် !!!!!!
+ကြည့်ခါနီးတိုင်း Refresh လုပ်ပါ။ ဒါမှ နေ့စဉ်တင်တဲ့ ဇာတ်ကားအသစ်
+လိုင်းအသစ်တွေ ပေါ်လာမှာပါ။ နေ့စဉ် ဘောပွဲတွေ Update မဖြစ်ရင်၊ ပေါ်မလာရင်လည်း နှိပ်လို့ရပါတယ်။
+
+3. Android Phone
+Browser မှာ 
+bit.ly/ispsm2023
+လို့ ရိုက်ထည့်ပြီး ဆော့ဝဲဒေါင်းပါ။ ပြီးရင် Install လုပ်လိုက်ပါ။
+Login with xtream codes api ကိုနှိပ်ပါ။
+Mobile လား TV လား ရွေးခိုင်းရင် Mobile ကိုရွေးပြီး Save နှိပ်ပါ။
+Any Name မှာ ကြိုက်ရာထည့်ပါ။
+Username နဲ့ Password မှာ 605940874 ထည့်ပါ။
+အောက်ဆုံး Url မှာ http://s.iptvclient.xyz ထည့်ပြီး Add User နှိပ်ပါ။
+ကြည့်လို့ရပါပြီ။
+!!!!! သတိပြုပါရန် !!!!!!
+ကြည့်ခါနီးတိုင်း Refresh လုပ်ပါ။ ဒါမှ နေ့စဉ်တင်တဲ့ ဇာတ်ကားအသစ်
+လိုင်းအသစ်တွေ ပေါ်လာမှာပါ။ နေ့စဉ် ဘောပွဲတွေ Update မဖြစ်ရင်၊ ပေါ်မလာရင်လည်း နှိပ်လို့ရပါတယ်။
+
+
+4. Samsung/LG Smart TV
+Samsung App Store/LG Content Store ကနေ IPTV Smarter Pro ဆိုတာလေးဒေါင်းပြီးဖွင့်ပါ။ 
+Any Name မှာ ကြိုက်ရာ ထည့်ပါ။
+Username နဲ့ Password မှာ ????? ထည့်ပါ
+အောက်ဆုံး Url မှာ http://45.77.242.32 ထည့်ပြီး Add User နှိပ်ပါ။ 
+စမ်းကြည့်လို့ရပါပြီ။
+
 
 
 
