@@ -1,5 +1,5 @@
 Reseller Panel Login - 
-http://s.iptvclient.xyz/reseller
+http://smstv.live/reseller
 Username - ပေးထားတာထည့်ပါ
 Password - ပေးထားတာထည့်ပါ
 
@@ -24,20 +24,16 @@ Android TV/Android Box/Android Phone တို့တွင် အသုံးပ
 အဓိက အသုံးပြုရန်  - IPTV Smarter Pro ကိုအဓိကထားသုံးပါ။ ဒေါင်းရန်လင့် - bit.ly/ispsm2023
 
 
-XCIPTV Player, Smart IPTV Xtream Player အကုန်လုံး Playstore မှာ ဒေါင်းလုတ်ဆွဲနိုင်သည်။
-XCIPTV Player က တစ်ချို့စက်တွေမှာ Movie ကြည့်ရင်း ထွက်သွားတတ်တာမျိုးရှိပါတယ်။
-Smart IPTV Xtream Player က အချို့စက်တွေမှာ Player ပြောင်းပေးရပါတယ်။ Menu > Player Selection ထဲမှာ Movie နဲ့ Serie ကို Default Player ပြောင်းပေးပါ။
-
 -------------------------------------------------------------------
 
 iPhone, iPad တို့အတွက်ကတော့ 
-App Store ကနေ XCIPTV Player ဒေါင်းခိုင်းပါ။
+App Store ကနေ Smarter Pro ဆိုတဲ့ဆော့ဝဲ ဒေါင်းခိုင်းပါ။
 
 -------------------------------------------------------------------
 Laptop/Desktop/PC
 
 Browser ကနေ ကြည့်ရမှာပါ။
-http://s.iptvclient.xyz/webplayer
+http://smstv.live/webplayer
 အဲ့မှာ Username, Password နဲ့ ဝင်ပြီးကြည့်လို့ရပါတယ်
 
 ---------------------------------------------------------------------
@@ -48,22 +44,6 @@ LG ဆိုရင် LG Content Store ကနေ IPTV Smarter Pro ဆိုတ�
 အဲ့ Store တွေမပါရင် အဲ့ TV က မရပါဘူး
 -----------------------------------------------------------------------------------------------
 
-
-အကောင့်ထည့်နည်းများ - 
-XCIPTV Player- 
-XC Api Url/Portal Address မှာ http://s.iptvclient.xyz
-Username နဲ့ Password က ပေးထားတဲ့အတိုင်းထည့်ပါ။
-Login ဝင်ပြီးကြည့်လို့ရပါပြီ။
-!!!!!!! ကြည့်ခါနီးတိုင်း ညာဘက်အပေါ်ထောင့်က Update ဆိုတာလေးနှိပ်ပေးပါ။ ဒါမှ အသစ်တင်ထားတဲ့လိုင်းတွေ ဇာတ်ကားတွေ ပေါ်လာမှာပါ
-
-Smart IPTV Xtream Player - 
-Add Profile ကိုနှိပ်ပါ။
-Login With Xtream Codes Api ကိုနှိပ်ပါ။
-Name မှာ ကြိုက်ရာထည့်ပါ
-Username နဲ့ Password မှာ ပေးထားတာထည့်ပါ။
-အောက်ဆုံး Url မှာ http://s.iptvclient.xyz ထည့်ပါ။
-ဝင်ကြည့်လို့ရပါပြီ။
-!!!!!!! ကြည့်ခါနီးတိုင်း Refresh Data လုပ်ပေးပါ။ ဒါမှ အသစ်တင်ထားတဲ့လိုင်းတွေ ဇာတ်ကားတွေ ပေါ်လာမှာပါ
 
 IPTV Smarter Pro - 
 Mobile လား TV လားမေးခဲ့ရင် Mobile/TV သက်ဆိုင်ရာ ကိုယ့်စက်အမျိုးအစားရွေးပါ။ Android TV, Android Box တို့ဆိုရင် TV ရွေးရမှာပါ။ ဖုန်း၊ tablet တို့ဆိုရင် Mobile ရွေးရမှာပါ
@@ -93,7 +73,7 @@ Login with xtream codes api ကိုနှိပ်ပါ။
 Mobile လား TV လား ရွေးခိုင်းရင် TV ကိုရွေးပြီး Save နှိပ်ပါ။
 Any Name မှာ ကြိုက်ရာထည်ပါ။
 Username နဲ့ Password မှာ ??????? ထည့်ပါ။
-အောက်ဆုံး Url မှာ http://s.iptvclient.xyz ထည့်ပြီး Add User နှိပ်ပါ။
+အောက်ဆုံး Url မှာ http://smstv.live ထည့်ပြီး Add User နှိပ်ပါ။
 ကြည့်လို့ရပါပြီ။
 !!!!! သတိပြုပါရန် !!!!!!
 ကြည့်ခါနီးတိုင်း Refresh လုပ်ပါ။ ဒါမှ နေ့စဉ်တင်တဲ့ ဇာတ်ကားအသစ်
@@ -110,7 +90,7 @@ Login with xtream codes api ကိုနှိပ်ပါ။
 Mobile လား TV လား ရွေးခိုင်းရင် TV ကိုရွေးပြီး Save နှိပ်ပါ။
 Any Name မှာ ကြိုက်ရာထည့်ပါ။
 Username နဲ့ Password မှာ 605940874 ထည့်ပါ။
-အောက်ဆုံး Url မှာ http://s.iptvclient.xyz ထည့်ပြီး Add User နှိပ်ပါ။
+အောက်ဆုံး Url မှာ http://smstv.live ထည့်ပြီး Add User နှိပ်ပါ။
 ကြည့်လို့ရပါပြီ။
 !!!!! သတိပြုပါရန် !!!!!!
 ကြည့်ခါနီးတိုင်း Refresh လုပ်ပါ။ ဒါမှ နေ့စဉ်တင်တဲ့ ဇာတ်ကားအသစ်
@@ -124,7 +104,7 @@ Login with xtream codes api ကိုနှိပ်ပါ။
 Mobile လား TV လား ရွေးခိုင်းရင် Mobile ကိုရွေးပြီး Save နှိပ်ပါ။
 Any Name မှာ ကြိုက်ရာထည့်ပါ။
 Username နဲ့ Password မှာ 605940874 ထည့်ပါ။
-အောက်ဆုံး Url မှာ http://s.iptvclient.xyz ထည့်ပြီး Add User နှိပ်ပါ။
+အောက်ဆုံး Url မှာ http://smstv.live ထည့်ပြီး Add User နှိပ်ပါ။
 ကြည့်လို့ရပါပြီ။
 !!!!! သတိပြုပါရန် !!!!!!
 ကြည့်ခါနီးတိုင်း Refresh လုပ်ပါ။ ဒါမှ နေ့စဉ်တင်တဲ့ ဇာတ်ကားအသစ်
