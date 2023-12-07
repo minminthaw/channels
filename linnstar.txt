@@ -92,3 +92,11 @@ Any Name မှာ ကြိုက်ရာ ထည့်ပါ။
 Username နဲ့ Password မှာ ထုတ်ထားတဲ့အကောင့် ထည့်ပါ
 အောက်ဆုံး Url မှာ http://45.77.242.32 ထည့်ပြီး Add User နှိပ်ပါ။ 
 စမ်းကြည့်လို့ရပါပြီ။
+
+5. iPhone, iPad
+App Store ကနေ Smarter Player Lite ဆိုတာလေးဒေါင်းပြီးဖွင့်ပါ။ 
+Add Your Playlist နှိပ်ပါ။
+Any Name မှာ ကြိုက်ရာ ထည့်ပါ။
+Username နဲ့ Password မှာ ထုတ်ထားတဲ့အကောင့် ထည့်ပါ
+အောက်ဆုံး Url မှာ http://smstv.live ထည့်ပြီး Add User နှိပ်ပါ။ 
+ကြည့်လို့ရပါပြီ။
